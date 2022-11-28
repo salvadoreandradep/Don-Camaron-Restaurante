@@ -27,5 +27,13 @@ Partial Public Class Register
             ErrorMessage.Text = result.Errors.FirstOrDefault()
         End If
     End Sub
+
+    Protected Sub Page_Load(sender As Object, e As EventArgs) Handles Me.Load
+
+    End Sub
+
+    Protected Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+
+    End Sub
 End Class
 

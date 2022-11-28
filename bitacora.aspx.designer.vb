@@ -12,5 +12,5 @@ Option Explicit On
 
 
 
-Partial Public Class acercade
+Partial Public Class bitacora
 End Class

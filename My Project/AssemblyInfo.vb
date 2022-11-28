@@ -8,8 +8,8 @@ Imports System.Runtime.InteropServices
 
 ' Revisar los valores de los atributos del ensamblado
 <Assembly: AssemblyTitle("Don_Camaron_Restaurante")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyDescription("Entorno web, el cual maneja la administracion de un restaurante, registro de usuario y de mas formularios web con pagina maestra")>
+<Assembly: AssemblyCompany("Grupo 6")>
 <Assembly: AssemblyProduct("Don_Camaron_Restaurante")>
 <Assembly: AssemblyCopyright("Copyright ©  2022")>
 <Assembly: AssemblyTrademark("")>
